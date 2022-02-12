@@ -136,3 +136,6 @@ data/
 
 # tensorboard logs
 runs/
+
+# models
+models/
