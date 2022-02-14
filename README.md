@@ -1,6 +1,6 @@
 # Traffic Sign Classification with Neural Networks
 
-The aim of this project is to implement and train several neural networks in PyTorch for the task of traffic sign classification. The dataset used is from the [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/gtsrb_news.html) (reference below). Results and a more detailed description will be published in the future.
+The aim of this project is to implement and train several neural networks in PyTorch for the task of traffic sign classification. The dataset used is from the [German Traffic Sign Recognition Benchmark (GTSRB)](https://benchmark.ini.rub.de/gtsrb_news.html) (reference below). Results and a more detailed description will be published in the future as this project is still WIP.
 
 ![image](https://user-images.githubusercontent.com/49451811/153862112-caf6b9e5-ffa2-4ce9-98dd-65aa347597fe.png)
 
